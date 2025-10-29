@@ -43,7 +43,7 @@ This tool allows you to quickly identify which ports are open on a target system
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/port-scanner.git
+git clone https://github.com/Elabdera/port-scanner.git
 cd port-scanner
 ```
 
@@ -269,8 +269,8 @@ If you want to learn more about port scanning and pentesting:
 
 **Manuel Sánchez Gutiérrez**  
 - Email: manoloadra2@gmail.com  
-- LinkedIn: [linkedin.com/in/manuel-sanchez-gutierrez](https://www.linkedin.com/in/manuel-sánchez-gutiérrez-b534ab336/)  
-- GitHub: [github.com/yourusername](https://github.com/yourusername)
+- LinkedIn: [linkedin.com/in/manuel-sanchez-gutierrez](https://www.linkedin.com/in/manuel-sanchez-gutierrez-b534ab336/)  
+- GitHub: [github.com/Elabdera](https://github.com/Elabdera)
 
 ---
 
